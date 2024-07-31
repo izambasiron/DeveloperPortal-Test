@@ -1,0 +1,20 @@
+{
+  "versionInfo": {
+      "hasModuleVersionChanged": false,
+      "hasApiVersionChanged": false
+  },
+  "data": {
+      "User": {
+          "Id": 9,
+          "Name": "John Doe",
+          "Username": "user1@example.com",
+          "Password": "",
+          "Email": "",
+          "MobilePhone": "",
+          "External_Id": "",
+          "Creation_Date": "1900-01-01T00:00:00",
+          "Last_Login": "2024-07-29T13:54:55.243Z",
+          "Is_Active": false
+      }
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "versionInfo": {
+        "hasModuleVersionChanged": false,
+        "hasApiVersionChanged": false
+    },
+    "data": {
+        "Developers": {
+            "List": [
+                {
+                    "Username": "user1@example.com",
+                    "ModuleName": "ModuleD",
+                    "LastLoginDateTime": "2023-03-18T11:47:25Z",
+                    "UploadedDateTime": "2023-10-26T14:23:21Z",
+                    "IsActive": true
+                },
+                {
+                    "Username": "user3@example.com",
+                    "ModuleName": "ModuleD",
+                    "LastLoginDateTime": "2023-04-09T03:56:28Z",
+                    "UploadedDateTime": "2024-02-01T12:27:18Z",
+                    "IsActive": true
+                },
+                {
+                    "Username": "user3@example.com",
+                    "ModuleName": "ModuleC",
+                    "LastLoginDateTime": "2023-07-04T15:26:15Z",
+                    "UploadedDateTime": "2023-05-15T14:09:33Z",
+                    "IsActive": true
+                },
+                {
+                    "Username": "user5@example.com",
+                    "ModuleName": "ModuleB",
+                    "LastLoginDateTime": "2023-10-13T00:58:45Z",
+                    "UploadedDateTime": "2024-03-31T02:50:38Z",
+                    "IsActive": true
+                },
+                {
+                    "Username": "user2@example.com",
+                    "ModuleName": "ModuleA",
+                    "LastLoginDateTime": "2024-04-26T11:50:45Z",
+                    "UploadedDateTime": "2024-06-20T20:57:51Z",
+                    "IsActive": true
+                }
+            ]
+        },
+        "Count": 6
+    }
+}

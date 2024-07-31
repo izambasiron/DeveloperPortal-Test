@@ -1,0 +1,16 @@
+{
+  "name": "developer-portal-tests",
+  "version": "1.0.0",
+  "description": "Cypress tests for the Developer Portal",
+  "scripts": {
+    "cy:open": "cypress open --e2e",
+    "cy:env:open": "env-cmd -f .env npx cypress open --e2e"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "env-cmd": "^10.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
